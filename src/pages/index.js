@@ -91,7 +91,7 @@ const IndexPage = () => (
           <p>
             Alan Descoins is the CTO of{' '}
             <a href="https://tryolabs.com/">Tryolabs</a>. He holds a Computer
-            Engineering degree and has +7 years of experience doing consultancy
+            Engineering degree and has 7+ years of experience doing consultancy
             for companies in Silicon Valley, mostly focused on developing robust
             backends, scalable infrastructures and Machine Learning based
             algorithms, using the Python stack. Currently, he acts as the main
@@ -125,7 +125,7 @@ const IndexPage = () => (
           <p>
             Yves lectures on computational finance at the{' '}
             <a href="http://cqf.com">CQF Program</a>, on algorithmic trading at
-            the <a href="http://www.quantinsti.com">EPAT Program</a>
+            the <a href="http://www.quantinsti.com">EPAT Program</a> 
             and on data science at{' '}
             <a href="http://htwsaar.de">
               htw saar University of Applied Sciences
